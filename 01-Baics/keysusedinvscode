@@ -1,0 +1,17 @@
+ctrl+shift+p  - cmd>
+ctrl+p  - move between our files in a folder
+ctrl+, -setting
+ctrl + ` -terminal
+ctrl + b -toogle open or not
+ctrl + w - close a file 
+shift + -> -copy all line
+ctrl + x -remove a line
+alt+shift+down arrow  - same line copy
+ctrl+a - copy whole line
+ctrl+z -undo
+ctrl+y -redo
+alt+up arrow - swap current line to up
+alt+mouse click  - two cursor we cam write at the same time
+ctrl+d - highlight the same word which was in the file
+!+tab - create html basic tags
+h1 + tab - it will automatically create a <> tags
