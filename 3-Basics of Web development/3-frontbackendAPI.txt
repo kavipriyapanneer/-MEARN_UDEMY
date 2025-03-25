@@ -1,0 +1,23 @@
+FRONT END:
+* HTML
+* CSS- BOOTSTRAP,TAILWIND.
+* JS- REACT,VIEW,SVELETE,WHOLE
+
+BACKEND:
+*   JS
+*   NODE JS 
+*   PHP
+*   DJANGO
+*   PYTHON
+*   RUBY
+*   RAILS
+(server side script language)
+
+DATABASAE:
+*   MYSQL
+*   MANGO DATABASAE
+
+API Application programming intract where front and backend interact with.
+it is in universal acceptance format - JSON.
+
+FRONTEND->API->BACKEND

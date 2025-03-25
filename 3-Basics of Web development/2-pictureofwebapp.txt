@@ -1,0 +1,17 @@
+MAIN COMPONENTS:
+*   HTML
+*   CSS
+*   JAVASCRIPT
+
+invovled in front end
+
+SERVER
+
+DATABASE 
+
+When we try to request a website:
+Request->server->acess database or sent a response,log or sign up.
+
+Server sents first HTML,CSS,JAVASCRIPT
+
+JAVASCRIPT = handle functionality,take our response to backend.

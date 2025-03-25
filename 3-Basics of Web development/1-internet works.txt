@@ -1,0 +1,5 @@
+HOW DOES INTERNET WORKS????
+Generally each and ever system have IP address.if we want to acess a webite we will sent a
+request to the ISP it may be Airtel,Jio.
+the ISP sent  a signal to DNS it is  a book having IP Address and its corresponding website name
+it sent a response to the ISP and the ISP then reuest to the website.
