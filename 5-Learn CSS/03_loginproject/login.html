@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log in page</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(143, 158, 158);
+            /* flush out margin */
+            margin: 0;
+            padding:0;
+            height:100vh;/* view port height  if the browser stinck it will remain the same*/
+            display:flex;  
+            /* flex box 2 property */
+            justify-content: center;
+            align-items: center;
+        }
+        .card{
+            background-color:rgb(159, 182, 183);
+            border-radius: 8px;
+            padding:50px;
+            width: 210px;
+            /* from actual width we are changing as required
+             */
+        }
+        h2{
+            color: rgb(21, 19, 20);
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        form{
+            display:flex;
+            flex-direction: column;
+            gap:10px;
+
+        }
+        input{
+            margin-bottom: 1px;
+            padding:5px;
+            border-radius: 5px;
+            border: 1px solid rgb(180, 31, 31);
+            background-color: rgb(225, 243, 237);
+
+        }
+        button{
+            background-color:rgb(225, 243, 237) ;
+            border-radius: 5px;
+            border-bottom: 5px;
+            padding: 5px;
+
+
+        }
+        button:hover{
+            background-color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2> Log in</h2>
+        <form ><label>Email<input type="email"></label> 
+        <label>password<input type="password"></label> 
+    <button type="submit">submit</button>
+</form>
+    
+    </div>
+</body>
+</html>
